@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci 2.0.Android", "Fibonacci 2.0\Fibonacci 2.0.Android\Fibonacci 2.0.Android.csproj", "{59622957-B43C-474D-B1E0-ACC8F59CC940}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci 2.0", "Fibonacci 2.0\Fibonacci 2.0\Fibonacci 2.0.csproj", "{80417477-A059-4B8E-8712-746538BF63A4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59622957-B43C-474D-B1E0-ACC8F59CC940}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59622957-B43C-474D-B1E0-ACC8F59CC940}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59622957-B43C-474D-B1E0-ACC8F59CC940}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{59622957-B43C-474D-B1E0-ACC8F59CC940}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59622957-B43C-474D-B1E0-ACC8F59CC940}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59622957-B43C-474D-B1E0-ACC8F59CC940}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{80417477-A059-4B8E-8712-746538BF63A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80417477-A059-4B8E-8712-746538BF63A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80417477-A059-4B8E-8712-746538BF63A4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{80417477-A059-4B8E-8712-746538BF63A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80417477-A059-4B8E-8712-746538BF63A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80417477-A059-4B8E-8712-746538BF63A4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {362DFE84-20E7-4DE2-83B3-4AABD09F2CA3}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Suma_2._0.MainPage">
+
+    <StackLayout Padding="30" Background="LightGreen">
+
+        <Label Text="Suma 2.0" FontSize="Large" FontAttributes="Bold"/>
+
+        <Label Text="A=" />
+        <Entry x:Name="boxA" Keyboard="Numeric" />
+
+        <Label Text="B=" />
+        <Entry x:Name="boxB" Keyboard="Numeric" />
+
+        <Label Text="A+B=" />
+        <Entry x:Name="Sum" Keyboard="Numeric" IsReadOnly="True"/>
+
+        <Button Text="Sum" Clicked="OnButtonClicked" />
+
+    </StackLayout>
+
+</ContentPage>
