@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primes 2.0.Android", "Primes 2.0\Primes 2.0.Android\Primes 2.0.Android.csproj", "{84F7CC53-5668-4D95-BD10-78DB30E4F8F6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Primes 2.0", "Primes 2.0\Primes 2.0\Primes 2.0.csproj", "{6D03DAF4-D2F1-49E1-A39E-FEDE532756B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84F7CC53-5668-4D95-BD10-78DB30E4F8F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84F7CC53-5668-4D95-BD10-78DB30E4F8F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84F7CC53-5668-4D95-BD10-78DB30E4F8F6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{84F7CC53-5668-4D95-BD10-78DB30E4F8F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84F7CC53-5668-4D95-BD10-78DB30E4F8F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{84F7CC53-5668-4D95-BD10-78DB30E4F8F6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6D03DAF4-D2F1-49E1-A39E-FEDE532756B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D03DAF4-D2F1-49E1-A39E-FEDE532756B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D03DAF4-D2F1-49E1-A39E-FEDE532756B1}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6D03DAF4-D2F1-49E1-A39E-FEDE532756B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D03DAF4-D2F1-49E1-A39E-FEDE532756B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D03DAF4-D2F1-49E1-A39E-FEDE532756B1}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CF167F90-E97C-4A3D-A6AA-8B2C5064FF51}
+	EndGlobalSection
+EndGlobal

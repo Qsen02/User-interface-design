@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Yasen\\user interface design\\Primes 1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D77AC81A-8BDF-42FF-91B2-0BF05578EFB6}|Primes 1.0\\Primes 1.0.csproj|f:\\yasen\\user interface design\\primes 1.0\\primes 1.0\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D77AC81A-8BDF-42FF-91B2-0BF05578EFB6}|Primes 1.0\\Primes 1.0.csproj|solutionrelative:primes 1.0\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D77AC81A-8BDF-42FF-91B2-0BF05578EFB6}|Primes 1.0\\Primes 1.0.csproj|f:\\yasen\\user interface design\\primes 1.0\\primes 1.0\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D77AC81A-8BDF-42FF-91B2-0BF05578EFB6}|Primes 1.0\\Primes 1.0.csproj|solutionrelative:primes 1.0\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "F:\\Yasen\\user interface design\\Primes 1.0\\Primes 1.0\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Primes 1.0\\MainPage.xaml.cs",
+              "ToolTip": "F:\\Yasen\\user interface design\\Primes 1.0\\Primes 1.0\\MainPage.xaml.cs",
+              "RelativeToolTip": "Primes 1.0\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T19:22:26.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "F:\\Yasen\\user interface design\\Primes 1.0\\Primes 1.0\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Primes 1.0\\MainPage.xaml",
+              "ToolTip": "F:\\Yasen\\user interface design\\Primes 1.0\\Primes 1.0\\MainPage.xaml",
+              "RelativeToolTip": "Primes 1.0\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-11T19:21:42.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

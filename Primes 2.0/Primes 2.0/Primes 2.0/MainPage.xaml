@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Primes_2._0.MainPage">
+
+    <StackLayout Background="yellow" Padding="30">
+
+        <Label Text="Primes 2.0" FontSize="Large"/>
+
+        <Label Text="Limit"/>
+        <Entry x:Name="primeLimit" Keyboard="Numeric"/>
+        <Button Text="Generate" Clicked="GenerateNumebrsHandler"/>
+
+        <ListView x:Name="primeNumbers"/>
+
+    </StackLayout>
+
+</ContentPage>
