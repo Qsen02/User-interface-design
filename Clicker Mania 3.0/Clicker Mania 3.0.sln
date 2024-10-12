@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clicker Mania 3.0.Android", "Clicker Mania 3.0\Clicker Mania 3.0.Android\Clicker Mania 3.0.Android.csproj", "{432357DC-E596-4630-BEE2-43D040982486}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clicker Mania 3.0", "Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0.csproj", "{7848C81F-B307-4C34-9D6B-A3D8B1C8F188}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{432357DC-E596-4630-BEE2-43D040982486}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{432357DC-E596-4630-BEE2-43D040982486}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{432357DC-E596-4630-BEE2-43D040982486}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{432357DC-E596-4630-BEE2-43D040982486}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{432357DC-E596-4630-BEE2-43D040982486}.Release|Any CPU.Build.0 = Release|Any CPU
+		{432357DC-E596-4630-BEE2-43D040982486}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7848C81F-B307-4C34-9D6B-A3D8B1C8F188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7848C81F-B307-4C34-9D6B-A3D8B1C8F188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7848C81F-B307-4C34-9D6B-A3D8B1C8F188}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7848C81F-B307-4C34-9D6B-A3D8B1C8F188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7848C81F-B307-4C34-9D6B-A3D8B1C8F188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7848C81F-B307-4C34-9D6B-A3D8B1C8F188}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D8D66B46-209F-4F0E-9528-3FA753AE9D63}
+	EndGlobalSection
+EndGlobal

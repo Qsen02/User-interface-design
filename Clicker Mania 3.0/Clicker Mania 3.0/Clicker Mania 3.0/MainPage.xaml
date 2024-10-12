@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Clicker_Mania_3._0.MainPage">
+
+    <StackLayout>
+        <!-- Title -->
+        <Label Text="Clicker Mania 3.0" FontSize="Large" />
+
+        <!-- Timer -->
+        <Label Text="Timer" />
+        <Entry x:Name="Timer" Text="0" />
+
+        <!-- Clicks -->
+        <Label Text="Clicks" />
+        <Entry x:Name="Clicks" Text="0" />
+
+        <!-- Clicks Per Minute -->
+        <Label Text="Clicks Per Minute" />
+        <Entry x:Name="CPM" Text="0" />
+
+        <!-- Button -->
+        <Button Text="Click" Clicked="ClickHandler" />
+    </StackLayout>
+
+</ContentPage>

@@ -1,0 +1,15 @@
+F:\Yasen\user interface design\Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0\obj\Debug\netstandard2.0\Clicker Mania 3.0.csproj.AssemblyReference.cache
+F:\Yasen\user interface design\Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0\obj\Debug\netstandard2.0\Clicker Mania 3.0.GeneratedMSBuildEditorConfig.editorconfig
+F:\Yasen\user interface design\Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Yasen\user interface design\Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Yasen\user interface design\Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0\obj\Debug\netstandard2.0\Clicker Mania 3.0.AssemblyInfoInputs.cache
+F:\Yasen\user interface design\Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0\obj\Debug\netstandard2.0\Clicker Mania 3.0.AssemblyInfo.cs
+F:\Yasen\user interface design\Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0\obj\Debug\netstandard2.0\Clicker Mania 3.0.csproj.CoreCompileInputs.cache
+F:\Yasen\user interface design\Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0\obj\Debug\netstandard2.0\Clicker Mania 3.0.dll
+F:\Yasen\user interface design\Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0\obj\Debug\netstandard2.0\refint\Clicker Mania 3.0.dll
+F:\Yasen\user interface design\Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0\obj\Debug\netstandard2.0\Clicker Mania 3.0.pdb
+F:\Yasen\user interface design\Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0\bin\Debug\netstandard2.0\Clicker Mania 3.0.deps.json
+F:\Yasen\user interface design\Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0\bin\Debug\netstandard2.0\Clicker Mania 3.0.dll
+F:\Yasen\user interface design\Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0\bin\Debug\netstandard2.0\ref\Clicker Mania 3.0.dll
+F:\Yasen\user interface design\Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0\bin\Debug\netstandard2.0\Clicker Mania 3.0.pdb
+F:\Yasen\user interface design\Clicker Mania 3.0\Clicker Mania 3.0\Clicker Mania 3.0\obj\Debug\netstandard2.0\XamlC.stamp

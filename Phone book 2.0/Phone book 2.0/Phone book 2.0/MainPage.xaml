@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Phone_book_2._0.MainPage">
+
+    <StackLayout Padding="50">
+        
+        <Label Text="Phone book 2.0" FontSize="Large" FontAttributes="bold"/>
+
+        <Button Text="Add" Clicked="AddPageHandler"/>
+
+        <ListView x:Name="phoneContacts" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                    <ImageCell Text="{Binding name}" Detail="{Binding phone}" ImageSource="{Binding picture}"/>
+                </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+    </StackLayout>
+
+</ContentPage>
