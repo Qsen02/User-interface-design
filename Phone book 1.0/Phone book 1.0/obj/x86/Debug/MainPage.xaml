@@ -1,0 +1,33 @@
+﻿<Page
+    x:Class="Phone_book_1._0.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Phone_book_1._0"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel Background="Cyan" Padding="40">
+
+        <TextBlock Text="Phone book 1.0" FontSize="40"/>
+
+        <ListBox x:ConnectionId='2' Name="boxContacts" Height="400" Margin="0 20 0 0">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <Image Source="{Binding picture}" Width="100" Height="100"/>
+                        <StackPanel>
+                                <TextBlock Text="{Binding name}" FontSize="32" />
+                                <TextBlock Text="{Binding phone}" FontSize="32" />
+                            </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+
+        <Button x:ConnectionId='3' Content="Add contact" Padding="20 10 20 10" Margin="0 20 0 0" FontSize="40"                       />
+
+    </StackPanel>
+</Page>
+

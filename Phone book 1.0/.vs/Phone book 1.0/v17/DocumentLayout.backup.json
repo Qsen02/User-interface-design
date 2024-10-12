@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Yasen\\user interface design\\Phone book 1.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F750221-D232-42FA-8D83-C4272B295412}|Phone book 1.0\\Phone book 1.0.csproj|f:\\yasen\\user interface design\\phone book 1.0\\phone book 1.0\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F750221-D232-42FA-8D83-C4272B295412}|Phone book 1.0\\Phone book 1.0.csproj|solutionrelative:phone book 1.0\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F750221-D232-42FA-8D83-C4272B295412}|Phone book 1.0\\Phone book 1.0.csproj|f:\\yasen\\user interface design\\phone book 1.0\\phone book 1.0\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F750221-D232-42FA-8D83-C4272B295412}|Phone book 1.0\\Phone book 1.0.csproj|solutionrelative:phone book 1.0\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F750221-D232-42FA-8D83-C4272B295412}|Phone book 1.0\\Phone book 1.0.csproj|f:\\yasen\\user interface design\\phone book 1.0\\phone book 1.0\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F750221-D232-42FA-8D83-C4272B295412}|Phone book 1.0\\Phone book 1.0.csproj|solutionrelative:phone book 1.0\\addpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F750221-D232-42FA-8D83-C4272B295412}|Phone book 1.0\\Phone book 1.0.csproj|f:\\yasen\\user interface design\\phone book 1.0\\phone book 1.0\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{7F750221-D232-42FA-8D83-C4272B295412}|Phone book 1.0\\Phone book 1.0.csproj|solutionrelative:phone book 1.0\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F750221-D232-42FA-8D83-C4272B295412}|Phone book 1.0\\Phone book 1.0.csproj|f:\\yasen\\user interface design\\phone book 1.0\\phone book 1.0\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F750221-D232-42FA-8D83-C4272B295412}|Phone book 1.0\\Phone book 1.0.csproj|solutionrelative:phone book 1.0\\contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "F:\\Yasen\\user interface design\\Phone book 1.0\\Phone book 1.0\\MainPage.xaml",
+              "RelativeDocumentMoniker": "Phone book 1.0\\MainPage.xaml",
+              "ToolTip": "F:\\Yasen\\user interface design\\Phone book 1.0\\Phone book 1.0\\MainPage.xaml",
+              "RelativeToolTip": "Phone book 1.0\\MainPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-12T14:49:52.122Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddPage.xaml.cs",
+              "DocumentMoniker": "F:\\Yasen\\user interface design\\Phone book 1.0\\Phone book 1.0\\AddPage.xaml.cs",
+              "RelativeDocumentMoniker": "Phone book 1.0\\AddPage.xaml.cs",
+              "ToolTip": "F:\\Yasen\\user interface design\\Phone book 1.0\\Phone book 1.0\\AddPage.xaml.cs",
+              "RelativeToolTip": "Phone book 1.0\\AddPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T16:08:08.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "F:\\Yasen\\user interface design\\Phone book 1.0\\Phone book 1.0\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "Phone book 1.0\\MainPage.xaml.cs",
+              "ToolTip": "F:\\Yasen\\user interface design\\Phone book 1.0\\Phone book 1.0\\MainPage.xaml.cs",
+              "RelativeToolTip": "Phone book 1.0\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T15:01:59.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "F:\\Yasen\\user interface design\\Phone book 1.0\\Phone book 1.0\\App.xaml.cs",
+              "RelativeDocumentMoniker": "Phone book 1.0\\App.xaml.cs",
+              "ToolTip": "F:\\Yasen\\user interface design\\Phone book 1.0\\Phone book 1.0\\App.xaml.cs",
+              "RelativeToolTip": "Phone book 1.0\\App.xaml.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAA0wCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:48:18.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Contacts.cs",
+              "DocumentMoniker": "F:\\Yasen\\user interface design\\Phone book 1.0\\Phone book 1.0\\Contacts.cs",
+              "RelativeDocumentMoniker": "Phone book 1.0\\Contacts.cs",
+              "ToolTip": "F:\\Yasen\\user interface design\\Phone book 1.0\\Phone book 1.0\\Contacts.cs",
+              "RelativeToolTip": "Phone book 1.0\\Contacts.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-12T14:45:05.772Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phone book 1.0", "Phone book 1.0\Phone book 1.0.csproj", "{7F750221-D232-42FA-8D83-C4272B295412}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{BB0F65A9-3018-4655-A73D-BCB9DAAFF051}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F750221-D232-42FA-8D83-C4272B295412}.Debug|ARM.ActiveCfg = Debug|ARM
+		{7F750221-D232-42FA-8D83-C4272B295412}.Debug|ARM.Build.0 = Debug|ARM
+		{7F750221-D232-42FA-8D83-C4272B295412}.Debug|ARM.Deploy.0 = Debug|ARM
+		{7F750221-D232-42FA-8D83-C4272B295412}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{7F750221-D232-42FA-8D83-C4272B295412}.Debug|ARM64.Build.0 = Debug|ARM64
+		{7F750221-D232-42FA-8D83-C4272B295412}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{7F750221-D232-42FA-8D83-C4272B295412}.Debug|x64.ActiveCfg = Debug|x64
+		{7F750221-D232-42FA-8D83-C4272B295412}.Debug|x64.Build.0 = Debug|x64
+		{7F750221-D232-42FA-8D83-C4272B295412}.Debug|x64.Deploy.0 = Debug|x64
+		{7F750221-D232-42FA-8D83-C4272B295412}.Debug|x86.ActiveCfg = Debug|x86
+		{7F750221-D232-42FA-8D83-C4272B295412}.Debug|x86.Build.0 = Debug|x86
+		{7F750221-D232-42FA-8D83-C4272B295412}.Debug|x86.Deploy.0 = Debug|x86
+		{7F750221-D232-42FA-8D83-C4272B295412}.Release|ARM.ActiveCfg = Release|ARM
+		{7F750221-D232-42FA-8D83-C4272B295412}.Release|ARM.Build.0 = Release|ARM
+		{7F750221-D232-42FA-8D83-C4272B295412}.Release|ARM.Deploy.0 = Release|ARM
+		{7F750221-D232-42FA-8D83-C4272B295412}.Release|ARM64.ActiveCfg = Release|ARM64
+		{7F750221-D232-42FA-8D83-C4272B295412}.Release|ARM64.Build.0 = Release|ARM64
+		{7F750221-D232-42FA-8D83-C4272B295412}.Release|ARM64.Deploy.0 = Release|ARM64
+		{7F750221-D232-42FA-8D83-C4272B295412}.Release|x64.ActiveCfg = Release|x64
+		{7F750221-D232-42FA-8D83-C4272B295412}.Release|x64.Build.0 = Release|x64
+		{7F750221-D232-42FA-8D83-C4272B295412}.Release|x64.Deploy.0 = Release|x64
+		{7F750221-D232-42FA-8D83-C4272B295412}.Release|x86.ActiveCfg = Release|x86
+		{7F750221-D232-42FA-8D83-C4272B295412}.Release|x86.Build.0 = Release|x86
+		{7F750221-D232-42FA-8D83-C4272B295412}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {166F45D5-1770-4647-820F-66E2FF6A3A52}
+	EndGlobalSection
+EndGlobal
