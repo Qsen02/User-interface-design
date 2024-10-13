@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Yasen\\user interface design\\RSS reader 2.0\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{473A79D6-1BF0-457E-9345-E04B6A6A2AE5}|RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0.csproj|f:\\yasen\\user interface design\\rss reader 2.0\\rss reader 2.0\\rss reader 2.0\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}",
+      "RelativeMoniker": "D:0:0:{473A79D6-1BF0-457E-9345-E04B6A6A2AE5}|RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0.csproj|solutionrelative:rss reader 2.0\\rss reader 2.0\\mainpage.xaml||{2974C621-7033-421A-B08A-11D27B021D1B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473A79D6-1BF0-457E-9345-E04B6A6A2AE5}|RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0.csproj|f:\\yasen\\user interface design\\rss reader 2.0\\rss reader 2.0\\rss reader 2.0\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473A79D6-1BF0-457E-9345-E04B6A6A2AE5}|RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0.csproj|solutionrelative:rss reader 2.0\\rss reader 2.0\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473A79D6-1BF0-457E-9345-E04B6A6A2AE5}|RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0.csproj|f:\\yasen\\user interface design\\rss reader 2.0\\rss reader 2.0\\rss reader 2.0\\feedreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473A79D6-1BF0-457E-9345-E04B6A6A2AE5}|RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0.csproj|solutionrelative:rss reader 2.0\\rss reader 2.0\\feedreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{473A79D6-1BF0-457E-9345-E04B6A6A2AE5}|RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0.csproj|f:\\yasen\\user interface design\\rss reader 2.0\\rss reader 2.0\\rss reader 2.0\\hyperlinkbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{473A79D6-1BF0-457E-9345-E04B6A6A2AE5}|RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0.csproj|solutionrelative:rss reader 2.0\\rss reader 2.0\\hyperlinkbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HyperlinkButton.cs",
+              "DocumentMoniker": "F:\\Yasen\\user interface design\\RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0\\HyperlinkButton.cs",
+              "RelativeDocumentMoniker": "RSS reader 2.0\\RSS reader 2.0\\HyperlinkButton.cs",
+              "ToolTip": "F:\\Yasen\\user interface design\\RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0\\HyperlinkButton.cs",
+              "RelativeToolTip": "RSS reader 2.0\\RSS reader 2.0\\HyperlinkButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:28:23.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FeedReader.cs",
+              "DocumentMoniker": "F:\\Yasen\\user interface design\\RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0\\FeedReader.cs",
+              "RelativeDocumentMoniker": "RSS reader 2.0\\RSS reader 2.0\\FeedReader.cs",
+              "ToolTip": "F:\\Yasen\\user interface design\\RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0\\FeedReader.cs",
+              "RelativeToolTip": "RSS reader 2.0\\RSS reader 2.0\\FeedReader.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwA8AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:17:27.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "F:\\Yasen\\user interface design\\RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "RSS reader 2.0\\RSS reader 2.0\\MainPage.xaml.cs",
+              "ToolTip": "F:\\Yasen\\user interface design\\RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0\\MainPage.xaml.cs",
+              "RelativeToolTip": "RSS reader 2.0\\RSS reader 2.0\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-13T19:15:31.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "F:\\Yasen\\user interface design\\RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0\\MainPage.xaml",
+              "RelativeDocumentMoniker": "RSS reader 2.0\\RSS reader 2.0\\MainPage.xaml",
+              "ToolTip": "F:\\Yasen\\user interface design\\RSS reader 2.0\\RSS reader 2.0\\RSS reader 2.0\\MainPage.xaml*",
+              "RelativeToolTip": "RSS reader 2.0\\RSS reader 2.0\\MainPage.xaml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-10-13T19:15:21.537Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
