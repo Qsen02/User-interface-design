@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="RSS_reader_1._0.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:RSS_reader_1._0"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel Background="Lime" Padding="20">
+
+        <!-- Title -->
+        <TextBlock Text="RSS Reader 1.0" FontSize="40" />
+
+        <!-- URI -->
+        <TextBox x:ConnectionId='2' Name="URI" Text="https://www.minchev.eu/feed/" FontSize="20" />
+        <Button x:ConnectionId='3' Content="Download" Margin="0 10" Padding="20 10" FontSize="20"                         />
+
+        <!-- RSS -->
+        <ScrollViewer>
+            <ListView x:ConnectionId='4' Name="RSS">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel>
+                            <HyperlinkButton NavigateUri="{Binding Link}">
+                                <HyperlinkButton.Content>
+                                    <TextBlock TextWrapping="Wrap" Text="{Binding Title}"/>
+                                </HyperlinkButton.Content>
+                            </HyperlinkButton>
+                            <TextBlock Text="{Binding PublishedDate}"/>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollViewer>
+    </StackPanel>
+</Page>
+

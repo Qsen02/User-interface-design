@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="HTML_downloader_2._0.MainPage">
+
+    <StackLayout>
+        <!-- Title -->
+        <Label Text="HTML Downloader 2.0" FontSize="Large" />
+
+        <!-- URL -->
+        <Label Text="URL" FontSize="Large" />
+        <Entry x:Name="URL" Text="https://www.minchev.eu" />
+        <Button Text="Download" Clicked="GetHTMLHandler" />
+
+        <!-- HTML -->
+        <ScrollView>
+            <Label x:Name="HTML" />
+        </ScrollView>
+    </StackLayout>
+
+</ContentPage>

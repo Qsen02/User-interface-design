@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML downloader 2.0.Android", "HTML downloader 2.0\HTML downloader 2.0.Android\HTML downloader 2.0.Android.csproj", "{6CDC33F0-FB07-4758-A005-28ACA8B50DC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HTML downloader 2.0", "HTML downloader 2.0\HTML downloader 2.0\HTML downloader 2.0.csproj", "{51C382CC-E97B-4CFC-BC0A-A49C78CD36A9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CDC33F0-FB07-4758-A005-28ACA8B50DC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CDC33F0-FB07-4758-A005-28ACA8B50DC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CDC33F0-FB07-4758-A005-28ACA8B50DC6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6CDC33F0-FB07-4758-A005-28ACA8B50DC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CDC33F0-FB07-4758-A005-28ACA8B50DC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CDC33F0-FB07-4758-A005-28ACA8B50DC6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{51C382CC-E97B-4CFC-BC0A-A49C78CD36A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51C382CC-E97B-4CFC-BC0A-A49C78CD36A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51C382CC-E97B-4CFC-BC0A-A49C78CD36A9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{51C382CC-E97B-4CFC-BC0A-A49C78CD36A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51C382CC-E97B-4CFC-BC0A-A49C78CD36A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51C382CC-E97B-4CFC-BC0A-A49C78CD36A9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C0323AA-BA86-4660-9989-BFCD45251FEC}
+	EndGlobalSection
+EndGlobal
