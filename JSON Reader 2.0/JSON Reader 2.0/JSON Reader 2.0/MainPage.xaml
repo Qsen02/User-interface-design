@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="JSON_Reader_2._0.MainPage">
+
+    <StackLayout>
+        <!-- Title -->
+        <Label Text="JSON Reader 2.0" FontSize="Large" FontAttributes="Bold" />
+
+        <!-- Buttons -->
+        <StackLayout Orientation="Horizontal">
+            <Button Text="New Joke" Clicked="GetJokeHandler" />
+            <Button Text="Tell Joke" Clicked="TellJokeHandler" />
+        </StackLayout>
+
+        <!-- Joke -->
+        <Label x:Name="JOKE" FontSize="Large" />
+    </StackLayout>
+
+</ContentPage>
