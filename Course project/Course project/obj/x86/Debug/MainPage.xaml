@@ -1,0 +1,65 @@
+﻿<Page
+    x:Class="Course_project.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Course_project"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <StackPanel Background="Blue" Padding="50" >
+        <TextBlock Text="Weather app" FontSize="40" HorizontalAlignment="Center"/>
+        <TextBox x:ConnectionId='2' Name="Location" 
+                 FontSize="20" 
+                 Padding="5 0 0 0" 
+                 HorizontalAlignment="Center" 
+                 Width="500" 
+                 Height="70" 
+                 Margin="0 20 0 0"
+                 PlaceholderText="Add location..."
+                 CornerRadius="15"
+        />
+        <Button x:ConnectionId='3' Content="Check" 
+                Padding="20 10 20 10" 
+                Margin="0 20 0 0" 
+                CornerRadius="15" 
+                HorizontalAlignment="Center" 
+                FontSize="40"
+                                         
+                />
+        <ScrollViewer>
+            <ListView x:ConnectionId='4' Name="Weather" Background="MidnightBlue" 
+                    Margin="0 30 0 0" 
+                    Padding="20" 
+                    Height="500" 
+                    Width="1000" 
+                    CornerRadius="20"
+                    HorizontalAlignment="Center"
+                    >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <StackPanel Width="900" Height="400" Padding="20">
+                            <TextBlock Text="{Binding Address}" FontSize="40" TextAlignment="Center"/>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 30 70 30">
+                                <TextBlock Text="Weather condition:" FontSize="25" Margin="0 0 10 0" />
+                                <TextBlock Text="{Binding currentConditions.icon}" FontSize="25" Margin="0 0 100 0"/>
+                                <TextBlock Text="{Binding currentConditions.temp}" FontSize="25"/>
+                                <TextBlock Text="&#x00B0;C"  FontSize="25"/>
+                            </StackPanel>
+                            <TextBlock Text="{Binding Description}" FontSize="25" TextAlignment="Center"/>
+                            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 30 0 30">
+                                <TextBlock Text="Wind speed:" FontSize="25" Margin="0 0 10 0"/>
+                                <TextBlock Text="{Binding currentConditions.windspeed}" FontSize="25" Margin="0 0 10 0"/>
+                                <TextBlock Text="Km/h" FontSize="25"  Margin="0 0 100 0"/>
+                                <TextBlock Text="UV index:" FontSize="25" Margin="0 0 10 0"/>
+                                <TextBlock Text="{Binding currentConditions.uvindex}" FontSize="25"/>
+                            </StackPanel>
+                        </StackPanel>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollViewer>
+    </StackPanel>
+</Page>
+
