@@ -30,13 +30,13 @@
     <AppXManifest Include="F:\Yasen\user interface design\Course project\Course project\bin\x86\Debug\Core\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2024-10-15T20:09:58.921</Modified>
+      <Modified>2024-10-16T15:52:18.938</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\bin\x86\Debug\Course project.exe">
       <PackagePath>entrypoint\Course project.exe</PackagePath>
-      <Modified>2024-10-15T20:09:58.344</Modified>
+      <Modified>2024-10-16T15:52:18.315</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\Dian\.nuget\packages\anglesharp\0.16.1\lib\netstandard2.0\AngleSharp.dll">
       <PackagePath>AngleSharp.dll</PackagePath>
@@ -62,9 +62,9 @@
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
       <Modified>2024-02-21T17:52:32.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
-      <Modified>2024-10-15T13:35:01.964</Modified>
+    <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\Assets\Temperature.png">
+      <PackagePath>Assets\Temperature.png</PackagePath>
+      <Modified>2024-10-16T15:32:13.597</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -100,17 +100,33 @@
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2024-10-09T20:42:37.284</Modified>
     </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\Assets\UV index.jpg">
+      <PackagePath>Assets\UV index.jpg</PackagePath>
+      <Modified>2024-10-16T15:51:06.307</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\Assets\Weather Condition.jpg">
+      <PackagePath>Assets\Weather Condition.jpg</PackagePath>
+      <Modified>2024-10-16T15:42:28.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\Assets\Wind.jpg">
+      <PackagePath>Assets\Wind.jpg</PackagePath>
+      <Modified>2024-10-16T15:49:31.754</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2024-10-15T13:35:01.964</Modified>
+    </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\bin\x86\Debug\Course project.xr.xml">
       <PackagePath>Course project.xr.xml</PackagePath>
-      <Modified>2024-10-15T19:47:23.415</Modified>
+      <Modified>2024-10-16T15:47:17.652</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\bin\x86\Debug\App.xbf">
       <PackagePath>App.xbf</PackagePath>
-      <Modified>2024-10-15T20:09:58.275</Modified>
+      <Modified>2024-10-16T15:52:18.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\bin\x86\Debug\MainPage.xbf">
       <PackagePath>MainPage.xbf</PackagePath>
-      <Modified>2024-10-15T20:09:58.275</Modified>
+      <Modified>2024-10-16T15:52:18.239</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.22621.0\Windows.winmd">
       <PackagePath>WinMetadata\Windows.winmd</PackagePath>
@@ -118,11 +134,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\bin\x86\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2024-10-15T15:09:41.487</Modified>
+      <Modified>2024-10-16T15:52:18.538</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\bin\x86\Debug\Core\Course project.exe">
       <PackagePath>Course project.exe</PackagePath>
-      <Modified>2024-10-15T20:09:58.918</Modified>
+      <Modified>2024-10-16T15:52:18.934</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

@@ -42,18 +42,45 @@
                         <StackPanel Width="900" Height="400" Padding="20">
                             <TextBlock Text="{Binding Address}" FontSize="40" TextAlignment="Center"/>
                             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 30 70 30">
-                                <TextBlock Text="Weather condition:" FontSize="25" Margin="0 0 10 0" />
-                                <TextBlock Text="{Binding currentConditions.icon}" FontSize="25" Margin="0 0 100 0"/>
-                                <TextBlock Text="{Binding currentConditions.temp}" FontSize="25"/>
-                                <TextBlock Text="&#x00B0;C"  FontSize="25"/>
+                                <Grid Width="50" Height="50" Margin="0 0 10 0">
+                                    <Ellipse>
+                                        <Ellipse.Fill>
+                                            <ImageBrush ImageSource="Assets/Weather Condition.jpg" Stretch="UniformToFill" />
+                                        </Ellipse.Fill>
+                                    </Ellipse>
+                                </Grid>
+                                <TextBlock Text="{Binding currentConditions.icon}" FontSize="25" Margin="0 3 100 0"/>
+                                <Grid Width="50" Height="50" Margin="0 0 10 0">
+                                    <Ellipse>
+                                        <Ellipse.Fill>
+                                            <ImageBrush ImageSource="Assets/Temperature.png" Stretch="UniformToFill" />
+                                        </Ellipse.Fill>
+                                    </Ellipse>
+                                </Grid>
+                                <TextBlock Text="{Binding currentConditions.temp}" FontSize="25" Margin="0 5 0 0"/>
+                                <TextBlock Text="&#x00B0;C"  FontSize="25" Margin="0 5 0 0"/>
                             </StackPanel>
                             <TextBlock Text="{Binding Description}" FontSize="25" TextAlignment="Center"/>
                             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0 30 0 30">
-                                <TextBlock Text="Wind speed:" FontSize="25" Margin="0 0 10 0"/>
-                                <TextBlock Text="{Binding currentConditions.windspeed}" FontSize="25" Margin="0 0 10 0"/>
-                                <TextBlock Text="Km/h" FontSize="25"  Margin="0 0 100 0"/>
-                                <TextBlock Text="UV index:" FontSize="25" Margin="0 0 10 0"/>
-                                <TextBlock Text="{Binding currentConditions.uvindex}" FontSize="25"/>
+                                <Grid Width="50" Height="50" Margin="0 0 10 0">
+                                    <Ellipse>
+                                        <Ellipse.Fill>
+                                            <ImageBrush ImageSource="Assets/Wind.jpg" Stretch="UniformToFill" />
+                                        </Ellipse.Fill>
+                                    </Ellipse>
+                                </Grid>
+                                <TextBlock Text="Wind speed:" FontSize="25" Margin="0 5 10 0"/>
+                                <TextBlock Text="{Binding currentConditions.windspeed}" FontSize="25" Margin="0 5 10 0"/>
+                                <TextBlock Text="Km/h" FontSize="25"  Margin="0 5 100 0"/>
+                                <Grid Width="50" Height="50" Margin="0 0 10 0">
+                                    <Ellipse>
+                                        <Ellipse.Fill>
+                                            <ImageBrush ImageSource="Assets/UV index.jpg" Stretch="UniformToFill" />
+                                        </Ellipse.Fill>
+                                    </Ellipse>
+                                </Grid>
+                                <TextBlock Text="UV index:" FontSize="25" Margin="0 5 10 0"/>
+                                <TextBlock Text="{Binding currentConditions.uvindex}" FontSize="25" Margin="0 5 0 0"/>
                             </StackPanel>
                         </StackPanel>
                     </DataTemplate>

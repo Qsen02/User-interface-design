@@ -46,8 +46,8 @@
     <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.22621.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
       <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\Properties\Default.rd.xml">
-      <PackagePath>Properties\Default.rd.xml</PackagePath>
+    <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\Assets\Temperature.png">
+      <PackagePath>Assets\Temperature.png</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -75,6 +75,18 @@
     <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\Assets\Wide310x150Logo.scale-200.png">
       <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\Assets\UV index.jpg">
+      <PackagePath>Assets\UV index.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\Assets\Weather Condition.jpg">
+      <PackagePath>Assets\Weather Condition.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\Assets\Wind.jpg">
+      <PackagePath>Assets\Wind.jpg</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
     </AppxPackagedFile>
     <AppxPackagedFile Include="F:\Yasen\user interface design\Course project\Course project\bin\x86\Debug\Course project.xr.xml">
       <PackagePath>Course project.xr.xml</PackagePath>

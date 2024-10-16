@@ -131,6 +131,10 @@
     </AppxManifest>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\Temperature.png" />
+    <Content Include="Assets\UV index.jpg" />
+    <Content Include="Assets\Weather Condition.jpg" />
+    <Content Include="Assets\Wind.jpg" />
     <Content Include="Properties\Default.rd.xml" />
     <Content Include="Assets\LockScreenLogo.scale-200.png" />
     <Content Include="Assets\SplashScreen.scale-200.png" />
